@@ -1,0 +1,1 @@
+Here I practiced page responsiveness by building a simple responsive page.
